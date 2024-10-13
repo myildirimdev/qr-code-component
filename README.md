@@ -17,18 +17,17 @@ This project is a simple, responsive QR code component built using HTML and CSS.
 ### Features
 
 - A centered QR code with a title and description.
-- Fully responsive layout.
 - Clean and modern design.
 - Utilizes Google Fonts for improved typography.
 
 ### Screenshot
 
-![QR Code Component](./images/image-qr-code.png)
+![QR Code Component](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Screenshots/lvcwaai6hdpd18ctwgpn.jpg)
 
 ### Links
 
-- Live Site: [View Live Demo](#)  
-- Source Code: [GitHub Repository](#)
+- Live Site: [View Live Demo](https://myildirimdev.github.io/qr-code-component/)  
+- Source Code: [GitHub Repository](https://github.com/myildirimdev/qr-code-component)
 
 ## Technologies Used
 
