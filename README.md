@@ -9,7 +9,6 @@ This project is a simple, responsive QR code component built using HTML and CSS.
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Author](#author)
 
 ## Overview
